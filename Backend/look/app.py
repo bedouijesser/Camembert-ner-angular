@@ -1,14 +1,9 @@
 import falcon
 from sqlalchemy import create_engine
-import configparser
-
-from .file_parser import FileParser, FileStore
-
 from transformers import AutoTokenizer, AutoModelForTokenClassification
 from transformers import pipeline
 
-config = configparser.ConfigParser()
-config.read('config.ini')
+from .file_parser import FileParser, FileStore
 
 # Initiating the mysql server
 engine = create_engine("mysql+pymysql://root@localhost/camembert_ner_islaib")
