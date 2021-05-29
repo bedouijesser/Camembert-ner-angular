@@ -1,0 +1,42 @@
+User Logins For testing Purposes
+
+Admin:
+  user: admin@dev.com
+  mdp: Admin123$
+  role: Admin
+
+Resp MI:
+  user: respmi@dev.com
+  mdp: Resp123$
+  role: Responsable MI
+
+Direct Pilote:
+  user: pilote@dev.com
+  mdp: Pilote123$
+  role: Directeur Pilote
+
+Direct Dev:
+  user: dev@dev.com
+  mdp: Dev1234$
+  role: Directeur Dev
+
+Direct Generale:
+  user: dg@dev.com
+  mdp: Dg123456$
+  role: Directeur Generale
+
+Charfi:
+  user: c.benslama2012@gmail.com
+  mdp: Charfi1$
+  role: Admin
+
+Oussama:
+  user: bedouioussama@gmail.com
+  mdp: Oussama1$
+  role: Admin
+
+Chorki:
+  user: wesletichokri@gmail.com
+  mdp: Chorki1$
+  role: Admin
+
