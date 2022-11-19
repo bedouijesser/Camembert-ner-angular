@@ -25,21 +25,21 @@ ipython==7.23.1
 ipython-genutils==0.2.0
 jedi==0.18.0
 Jinja2==3.0.1
-joblib==1.0.1
+joblib==1.1.1
 jsonpickle==2.0.0
 lxml==4.6.3
 MarkupSafe==2.0.1
 matplotlib-inline==0.1.2
 msgpack-python==0.5.6
 murmurhash==1.0.5
-numpy==1.20.3
+numpy==1.22.2
 packaging==20.9
 parso==0.8.2
 pathy==0.5.2
 pdfminer.six==20201018
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==8.2.0
+Pillow==9.2.0
 pkg-resources==0.0.0
 pluggy==0.13.1
 preshed==3.0.5
@@ -81,9 +81,10 @@ torchaudio==0.8.1
 torchvision==0.9.1
 tqdm==4.61.0
 traitlets==5.0.5
-transformers==4.5.1
+transformers==4.23.0
 typer==0.3.2
 typing-extensions==3.10.0.0
 urllib3==1.26.5
 wasabi==0.8.2
 wcwidth==0.2.5
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
