@@ -35,7 +35,7 @@
     "@groupdocs.examples.angular/editor": "^0.8.39",
     "@kolkov/angular-editor": "^1.1.4",
     "@mapbox/mapbox-gl-geocoder": "^4.7.0",
-    "@swimlane/ngx-charts": "^17.0.1",
+    "@swimlane/ngx-charts": "^20.1.2",
     "@types/file-saver": "^2.0.1",
     "@types/mapbox-gl": "^1.12.7",
     "@types/moment": "^2.13.0",
