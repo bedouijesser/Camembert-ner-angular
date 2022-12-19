@@ -76,7 +76,7 @@ thinc==8.0.3
 tika==1.24
 tokenizers==0.10.3
 toml==0.10.2
-torch==1.8.1
+torch==1.13.1
 torchaudio==0.8.1
 torchvision==0.9.1
 tqdm==4.61.0
