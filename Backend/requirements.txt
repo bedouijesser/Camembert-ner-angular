@@ -18,7 +18,7 @@ fr-dep-news-trf @ https://github.com/explosion/spacy-models/releases/download/fr
 greenlet==1.1.0
 gunicorn==20.1.0
 httpie==2.4.0
-huggingface-hub==0.0.8
+huggingface-hub==0.13.4
 idna==2.10
 iniconfig==1.1.1
 ipython==7.23.1
