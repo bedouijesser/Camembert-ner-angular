@@ -58,7 +58,7 @@ pyth==0.6.0
 pyth3==0.7
 python-docx==0.8.11
 regex==2021.4.4
-requests==2.25.1
+requests==2.31.0
 requests-toolbelt==0.9.1
 sacremoses==0.0.45
 sentencepiece==0.1.91
