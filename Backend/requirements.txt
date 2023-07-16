@@ -6,7 +6,7 @@ certifi==2020.12.5
 cffi==1.14.5
 chardet==4.0.0
 click==7.1.2
-cryptography==3.4.7
+cryptography==41.0.2
 cupy-cuda112==8.6.0
 cymem==2.0.5
 decorator==5.0.9
