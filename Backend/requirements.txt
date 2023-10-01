@@ -48,7 +48,7 @@ protobuf==3.17.1
 ptyprocess==0.7.0
 py==1.10.0
 pycparser==2.20
-pydantic==1.7.4
+pydantic==2.4.0
 Pygments==2.9.0
 PyMySQL==1.0.2
 pyparsing==2.4.7
