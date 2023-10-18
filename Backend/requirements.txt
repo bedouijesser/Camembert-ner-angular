@@ -84,6 +84,6 @@ traitlets==5.0.5
 transformers==4.5.1
 typer==0.3.2
 typing-extensions==3.10.0.0
-urllib3==1.26.5
+urllib3==1.26.18
 wasabi==0.8.2
 wcwidth==0.2.5
