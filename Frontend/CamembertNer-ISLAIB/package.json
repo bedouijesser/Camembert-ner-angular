@@ -41,7 +41,7 @@
     "@types/moment": "^2.13.0",
     "@types/toastr": "^2.1.38",
     "bootstrap": "^4.5.3",
-    "crypto-es": "^1.2.7",
+    "crypto-es": "^2.1.0",
     "crypto-js": "^4.0.0",
     "file-saver": "^2.0.5",
     "flex-layout": "^1.0.1",
