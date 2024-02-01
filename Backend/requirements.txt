@@ -39,7 +39,7 @@ pathy==0.5.2
 pdfminer.six==20201018
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==8.2.0
+Pillow==10.2.0
 pkg-resources==0.0.0
 pluggy==0.13.1
 preshed==3.0.5
@@ -81,7 +81,7 @@ torchaudio==0.8.1
 torchvision==0.9.1
 tqdm==4.61.0
 traitlets==5.0.5
-transformers==4.5.1
+transformers==4.37.0
 typer==0.3.2
 typing-extensions==3.10.0.0
 urllib3==1.26.5
