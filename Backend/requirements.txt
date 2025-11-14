@@ -36,7 +36,7 @@ numpy==1.20.3
 packaging==20.9
 parso==0.8.2
 pathy==0.5.2
-pdfminer.six==20201018
+pdfminer.six==20251107
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==8.2.0
